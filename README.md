@@ -19,8 +19,7 @@ You can run this script by three different ways:
 3) Run the script using cron job
 
 ### 1- Bash script file
-Go to the path of the bash script and run`./backupd.sh dir backupdir 
-interval max`
+Go to the path of the bash script and run`./backupd.sh dir backupdir interval max`
 
 **Parameters:**
 * `dir` the source directory that have list of file we need to backup <br />
